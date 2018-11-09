@@ -1,4 +1,6 @@
 # Deep-Reinforcement-Learning
-**모두를 위한 딥러닝 : Deep Reinforcement Learning 강의 내용입니다.** :+1:
- - Dummy Q-Learning (with OpenAI GYM)
+**모두를 위한 딥러닝 : Deep Reinforcement Learning 강의 + FastCampus 강화학습 강의** :+1:
+
+ - Markov Decision Process
+ - Dummy Q-Learning
  - Q-Network
