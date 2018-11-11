@@ -1,6 +1,6 @@
 # Deep-Reinforcement-Learning
-**모두를 위한 딥러닝 : Deep Reinforcement Learning 강의 + FastCampus 강화학습 강의** :+1:
+**강화학습과 관련된 내용 정리** :+1:
 
  - Markov Decision Process
- - Dummy Q-Learning
- - Q-Network
+ - Q-Learning & SARSA
+
