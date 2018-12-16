@@ -11,3 +11,8 @@
    - Code : [SARSA](https://github.com/Junhojuno/Deep-Reinforcement-Learning/blob/master/fastcampus/week3/2.SARSA.ipynb)
    - Code : [Q-Learning](https://github.com/Junhojuno/Deep-Reinforcement-Learning/blob/master/fastcampus/week3/3.Q-Learning.ipynb)
 
+ - Deep Reinforcement Learning
+   - code : [DQN](https://github.com/Junhojuno/Deep-Reinforcement-Learning/blob/master/fastcampus/week4/DQN.ipynb)
+   - code : [Double DQN]()
+   - code : [Prioritized Experience Replay (PER)]()
+   - code : [Dueling Architecture]()
